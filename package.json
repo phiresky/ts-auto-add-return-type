@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "date-fns": "^2.14.0",
+    "ts-morph": "^7.1.0",
+    "ts-node": "^8.10.1",
+    "typescript": "3.7"
+  },
+  "resolutions": {
+    "**/typescript": "3.7"
+  }
+}
